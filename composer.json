@@ -2,7 +2,6 @@
     "name": "pandayuhin/zh_hant_hk",
      "description": "Chinese T language package for Magento 2",
     
-"minimum-stability": "dev"
 
     "version": "100.0.6",
     "license": [
