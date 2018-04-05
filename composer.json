@@ -5,10 +5,7 @@
     "license": [
         "OSL-3.0"
     ],
-    "minimum-stability": "dev",
-    "require": {
-        "magento/framework": "@dev"
-    },
+
     "type": "magento2-language",
     "autoload": {
         "files": [
