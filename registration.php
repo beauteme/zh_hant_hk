@@ -16,6 +16,6 @@
 
 \Magento\Framework\Component\ComponentRegistrar::register(
     \Magento\Framework\Component\ComponentRegistrar::LANGUAGE,
-    'mageplaza_zh_hans_hk',
+    'mageplaza_zh_hant_hk',
     __DIR__
 );
