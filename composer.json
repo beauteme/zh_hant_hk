@@ -5,7 +5,12 @@
     "license": [
         "OSL-3.0"
     ],
+    
 
+    "require": {
+        "magento/framework": "dev-master"
+    },
+    
     "type": "magento2-language",
     "autoload": {
         "files": [
