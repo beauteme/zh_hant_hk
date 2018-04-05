@@ -1,6 +1,7 @@
 {
     "name": "pandayuhin/zh_hant_hk",
      "description": "Chinese T language package for Magento 2",
+    "version": "2.0.0.2-stable",
     "license": [
         "OSL-3.0"
     ],
